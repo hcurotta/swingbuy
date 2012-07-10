@@ -1,0 +1,1 @@
+Swingbuy is an app that allows consumers to buy groceries online
